@@ -1,8 +1,8 @@
 {
-  "token": "OTE3MTAyNTM0NzI2OTIyMzEy.Yaz0Sw.MTM8F0mx11vmXINsO1voW-4YoMM",
+  "token": "OTI4NjM1MDU1OTM5NjUzNjcy.Ydboyg.5KcIm1YQZUXRWWOwn8vX5C--NO",
   "prefix": "-",
-  "ksoftapi": "",
-  "cookie": "",
+  "ksoftapi": ".",
+  "cookie": "fyruhu6ifiyjf6uuiyjoougyyfto7ygyjgfffegbtrikhvbbddurwfj",
   "customs": {
     "clear": "dynaudnorm=f=200",
     "lightbass": "bass=g=8,dynaudnorm=f=200",
@@ -48,7 +48,7 @@
     "earrape": "bass=g=50"
   },
 
-  "AVATARURL": "",
+  "AVATARURL": "https://media.discordapp.net/attachments/772452481354563614/928990497689710612/unknown.png",
 
   "colors": {
     "yes" : "#ddcc33",
